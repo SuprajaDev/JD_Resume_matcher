@@ -1,0 +1,60 @@
+Source: own
+Profile: AI/ML student, mixed ML and web projects
+
+[NAME]
+[phone] | [Email] | [linkedin] | github.com/SuprajaDev
+
+PROFILE SUMMARY 
+B.Tech Artificial Intelligence and Data Science student (CGPA: 8.53) specializing in Machine Learning and applied AI, with hands
+on experience building and deploying computer vision and deep learning models using Python, TensorFlow, and OpenCV. Skilled 
+in end-to-end model development — from data preprocessing to deployment as interactive applications. Currently expanding 
+into Generative AI and LLM-based systems. Seeking an AI/ML Engineer or Python Developer role to apply strong problem-solving 
+skills to real-world machine learning problems. 
+EDUCATION 
+Amrita College of Engineering and Technology 
+2023 – 2027 
+Bachelor of Technology in Artificial Intelligence and Data Science | CGPA: 8.53, Nagercoil, Tamil Nadu 
+EXPERIENCE 
+AI Intern 
+Mashup Stack | Remote 
+June 2026 – July 2026 
+● Built an end-to-end handwritten digit recognition pipeline on a self-collected dataset (not MNIST), improving 
+robustness to real-world handwriting variation 
+● Designed and trained a custom CNN using TensorFlow/Keras, tuning architecture and preprocessing to maximize 
+accuracy on noisy, real-world input 
+● Engineered an OpenCV preprocessing stage (noise reduction, thresholding, segmentation) that directly improved model 
+prediction reliability 
+● Deployed the trained model as a live Streamlit web application, taking it from notebook experiment to a usable real
+time demo 
+Python Web Development Intern 
+Srishti Innovative | Technopark, Trivandrum 
+January 2025 – February 2025 
+● Built and tested Python-based web application features as part of an agile development team 
+● Worked with structured data and debugged functional issues alongside senior developers, gaining exposure to real 
+production workflows 
+Flutter Development Intern 
+June 2025 – July 2025 
+Srishti Innovative | Technopark, Trivandrum | Built UI screens in Flutter/Dart and improved navigation flow 
+PROJECTS 
+Handwritten Digit Recognition 
+TensorFlow, OpenCV, Streamlit, Python 
+● Designed and trained a custom CNN on a self-built dataset rather than MNIST, tackling a harder, less-standardized real
+world problem 
+● Built an OpenCV preprocessing pipeline (denoising, thresholding, segmentation) that measurably improved model 
+accuracy on noisy scanned input 
+● Deployed the model as an interactive Streamlit app for live, real-time predictions 
+● Extended the system to double-digit (00–99) recognition using a two-output model architecture and a custom CSV
+based data pipeline 
+GitHub Profile Finder 
+HTML, CSS, JavaScript, GitHub API 
+● Built a web app using vanilla JavaScript integrating the GitHub REST API; deployed publicly via GitHub Pages 
+TECHNICAL SKILLS 
+Programming Languages: Python, SQL, JavaScript, HTML/CSS 
+ML / AI: TensorFlow, Keras, OpenCV, NumPy, Pandas, Scikit-learn 
+Tools / Platforms: Git, GitHub, VS Code, Excel 
+Other Frameworks: Streamlit, Flutter 
+LEADERSHIP / EXTRACURRICULAR 
+Team Leader, Smart India Hackathon 
+● Led a 5-member team to design and build an AI-based Kolam generation system 
+Paper Presentation — Digital Twin 
+● Presented a research paper on Digital Twin technology at an inter-college event as part of a 2-member team 

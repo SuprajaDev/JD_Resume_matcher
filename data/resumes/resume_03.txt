@@ -1,0 +1,20 @@
+Source: synthetic
+Profile: GenAI / RAG / LLM fresher
+
+[NAME]
+B.Tech Computer Science, 2027, CGPA 8.1
+
+Experience
+Generative AI Intern, 3 months
+- Built an internal document Q&A chatbot with LangChain, OpenAI API and a FAISS vector store
+- Wrote and tested prompts, reduced incorrect answers by adding retrieved context
+- Exposed the chatbot through a FastAPI backend
+
+Projects
+- PDF chatbot: RAG pipeline with chunking, embeddings, ChromaDB and a Streamlit UI
+- Research agent: multi-step agent built with LangGraph that searches and summarizes articles
+- Semantic search: sentence-transformer embeddings for a college notes search tool
+- Basic sentiment classifier using scikit-learn
+
+Skills
+Python, LangChain, LangGraph, LlamaIndex, ChromaDB, FAISS, FastAPI, Prompt Engineering, REST APIs, Git, AWS (basic)

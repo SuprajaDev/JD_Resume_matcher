@@ -1,0 +1,20 @@
+Source: synthetic
+Profile: Python backend / web developer fresher
+
+[NAME]
+B.E Computer Science, 2027, CGPA 7.9
+
+Experience
+Backend Developer Intern, 3 months
+- Built and tested REST APIs in Django for an inventory management system
+- Wrote SQL queries and optimized slow endpoints on PostgreSQL
+- Took part in code reviews and wrote technical documentation
+
+Projects
+- E-commerce API: Django REST Framework, JWT authentication, PostgreSQL, deployed on AWS EC2
+- Library management system: Flask, SQLite, object-oriented design
+- Task automation: Python scripts to process and report on CSV files
+- Movie review sentiment: small scikit-learn project
+
+Skills
+Python, OOP, Data Structures and Algorithms (300+ LeetCode problems), Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker (basic), SDLC

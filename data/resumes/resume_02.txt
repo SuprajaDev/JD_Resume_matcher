@@ -1,0 +1,20 @@
+Source: synthetic
+Profile: Strong ML / deep learning fresher
+
+[NAME]
+B.Tech Artificial Intelligence and Data Science, 2027, CGPA 8.4
+
+Experience
+Machine Learning Intern, 2 months
+- Trained and evaluated classification models on tabular customer data using scikit-learn
+- Improved F1 score from 0.71 to 0.79 through feature engineering and hyperparameter tuning
+- Documented experiments and metrics for the team
+
+Projects
+- Image classifier: built a CNN in PyTorch for plant disease detection, 92% test accuracy
+- Sentiment analysis: fine-tuned a BERT model on product reviews using Hugging Face
+- Demand forecasting: LSTM model for time-series sales prediction, compared against ARIMA
+- Model API: served the image classifier with a Flask endpoint
+
+Skills
+Python, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, SQL, Git, Docker (basic), Linear Algebra, Probability, Statistics

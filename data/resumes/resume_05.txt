@@ -1,0 +1,20 @@
+Source: synthetic
+Profile: Data / business analyst fresher
+
+[NAME]
+B.Sc Statistics, 2026, CGPA 8.0
+
+Experience
+Business Analyst Intern, 3 months
+- Built weekly sales reports in Excel and Power BI for a retail team
+- Wrote SQL queries to pull and clean data from the company database
+- Presented findings on customer trends to non-technical stakeholders
+
+Projects
+- Sales dashboard: Power BI dashboard with monthly trends and regional breakdown
+- Customer churn analysis: exploratory analysis in Python (Pandas, Matplotlib) and a basic logistic regression
+- Stock returns study: calculated risk and return of 10 stocks, summarized in a report
+- Survey analysis: hypothesis tests on 500 responses
+
+Skills
+Excel (pivot tables, VLOOKUP), SQL, Power BI, Tableau, Python (Pandas, NumPy, Matplotlib), Statistics, Data Cleaning, Reporting, Communication

@@ -1,0 +1,43 @@
+   Company: Accenture
+   Role: AI/ML Computational Science Associate (fresher, Python-focused)
+
+   Skill required: Tech for Operations - Artificial Intelligence (AI)
+Designation: AI/ML Computational Science Associate
+Qualifications:BE/BTech
+Years of Experience:6months-1year
+About Accenture
+Accenture is a global professional services company with leading capabilities in digital, cloud and security.
+Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting,
+ Technology and Operations services, and Accenture Song— all powered by the world’s largest network of Advanced 
+ Technology and Intelligent Operations centers. Our 784,000 people deliver on the promise of technology
+and human ingenuity every day, serving clients in more than 120 countries.
+ We embrace the power of change to create value and shared success for our clients, people, shareholders, partners 
+ and communities.Visit us at [www.accenture.com](https://www.accenture.com)
+What would you do? 
+• We are looking for enthusiastic and highly motivated fresh graduates with a strong foundation in Python programming
+ and software development concepts. The candidate will work with experienced development teams to design, develop,test,
+ and maintain applications while gaining exposure to cloud, data engineering, AI, and modern software development practices.
+• This role provides an excellent opportunity to build a career in application development, automation, data processing, 
+  and emerging technologies using Python • Relevant certifications in Python, Cloud, Data Analytics, or AI are an added advantage.
+What are we looking for? 
+•  Good knowledge of Python programming. 
+• Understanding of Object Oriented Programming (OOP) concepts. 
+• Basic knowledge of: 
+  • Data Structures & Algorithms 
+  • SQL and Database Concepts 
+  • REST APIs • Git Version Control 
+  • Software Development Life Cycle (SDLC)
+Roles and Responsibilities: 
+• Develop, test, and maintain Python-based applications and scripts.
+• Participate in coding, debugging, and troubleshooting activities.
+• Assist in developing REST APIs and backend services.
+• Support automation and process improvement initiatives. 
+• Work on data processing, reporting, and analytics solutions. 
+• Participate in code reviews and follow coding standards. 
+• Collaborate with cross-functional teams to understand requirements and deliver solutions. 
+• Prepare technical documentation and project updates. 
+• Learn and adopt emerging technologies, tools, and frameworks.  
+•Preferred Competencies • Strong analytical and problem-solving skills. 
+• Excellent communication and teamwork skills. • Eagerness to learn new technologies. 
+• Ability to work in a collaborative and fast-paced environment.
+• Positive attitude and customer-centric mindset.

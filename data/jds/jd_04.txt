@@ -1,0 +1,47 @@
+Company: RevRag AI
+Role: Data Scientist Intern
+Company: RevRag AI
+Role: Data Scientist Intern
+
+Job Summary
+As a Data Scientist Intern, you will work on the machine learning and data science that powers RevRag AI's Voice and In-App AI Agents, from analysing conversation, call, and usage data to building, fine-tuning, and evaluating models that improve agent quality in production.
+This role is focused on practical, applied data science, not academic research. You'll turn messy, real-world BFSI data into models, experiments, and insights that ship.
+
+Key Responsibilities
+- Explore and analyse large conversation, call, and usage datasets to surface patterns, insights, and improvement opportunities.
+- Build, train, and evaluate ML models for classification, scoring, and quality tasks across the agent platform.
+- Fine-tune and adapt LLMs and smaller models for specific BFSI use cases.
+- Design evaluation pipelines and metrics to measure model and agent performance (accuracy, reliability, business impact).
+- Read relevant AI and ML research and implement useful ideas from papers.
+- Run structured experiments, track results, and document findings clearly.
+- Work with engineers to integrate models into production workflows.
+- Build data pipelines and tooling for feature engineering, labelling, and analysis.
+
+Technical Skills
+- Strong understanding of Machine Learning and Artificial Intelligence fundamentals, including supervised and unsupervised learning, deep learning basics, and common model architectures.
+- Good grasp of the mathematical foundations behind machine learning models, including linear algebra, probability, statistics, calculus, and optimization techniques.
+- Comfortable reading and understanding AI and ML research papers and implementing ideas from them when required.
+- Hands-on experience with model fine-tuning through academic projects, internships, research work, or personal projects.
+- Familiarity with Python and popular ML frameworks such as PyTorch, TensorFlow, or Scikit-learn.
+- Analytical mindset to evaluate model outputs and data quality.
+- Currently pursuing or recently completed a degree in Computer Science, Data Science, Statistics, Mathematics, or a related field.
+
+Nice to Have
+- Published or co-authored AI and ML research papers, or active contributions to open-source AI projects.
+- Experience participating in AI and ML hackathons, research initiatives, or Kaggle competitions.
+- Exposure to LLMs, embeddings, and vector databases.
+- Experience with data tools (Pandas, NumPy, SQL) and visualization.
+- Exposure to cloud platforms (AWS, GCP).
+
+What You'll Learn
+- How to apply data science and ML in real production AI systems.
+- Fine-tuning and evaluating models for real BFSI use cases.
+- Turning messy real-world data into models and insights.
+- Building evaluation pipelines and measuring what actually matters.
+- How models behave under real user conditions.
+
+Success in This Role
+- Ship measurable improvements to model or agent performance.
+- Deliver clean, well-documented experiments and analyses.
+- Turn data into decisions that influence the product.
+- Demonstrate structured experimentation and strong learning velocity.

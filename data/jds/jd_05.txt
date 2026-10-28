@@ -1,0 +1,23 @@
+Company: ARP Investments
+Role: Data Analyst (Quantitative Investment, Mumbai)
+
+Description
+The Data Analyst position will be based in Mumbai and be part of the Data team. He / She will work closely with the team to provide support on a sophisticated quantitative investment process covering data management, forecast models, risk management models and portfolio construction.
+
+Responsibilities
+- Work with close knit team of senior researchers, data scientists and technologists to evaluate and improve processes and investment strategies
+- Identify trends and issues in end-to-end investment process including but not limited to data, models, portfolio and trading
+
+Qualifications
+- M.B.A in Finance, B.E in Computers or B.S in Economics
+- Basic knowledge of Python and SQL is necessary
+- Comfortable using GPT and other generative AI tools
+- Diligent, self-motivated and resourceful; able to multi-task and focus on delivering results
+- Good written and oral communication skills
+- Flexibility to work from home
+
+Role: Data Analyst
+Industry Type: Financial Services
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Business Intelligence & Analytics

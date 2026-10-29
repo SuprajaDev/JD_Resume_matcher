@@ -1,0 +1,30 @@
+jd_id,resume_id,label,note
+jd_01,resume_01,1,Python SQL Git web intern but no REST API OOP DSA written
+jd_01,resume_02,1,Python SQL Git and a Flask endpoint but no OOP DSA SDLC
+jd_01,resume_03,1,Python FastAPI REST APIs Git but no SQL OOP DSA
+jd_01,resume_04,2,Python OOP DSA Django REST SQL Git SDLC all match
+jd_01,resume_05,0,Only SQL and reporting match and no Git APIs OOP or DSA
+
+jd_02,resume_01,2,Python TensorFlow CNN sklearn Pandas SQL preprocessing and Streamlit deployment but no API
+jd_02,resume_02,2,Python PyTorch sklearn feature engineering model evaluation Flask API and SQL all match
+jd_02,resume_03,1,Python and a basic sklearn model and FastAPI but no deep learning SQL or data cleaning
+jd_02,resume_04,1,Python SQL and APIs but only one small sklearn project and no deep learning
+jd_02,resume_05,1,Python Pandas SQL and data cleaning but no deep learning deployment or APIs
+
+jd_03,resume_01,1,Python Git and ML basics but no RAG LangChain vector DB or APIs written
+jd_03,resume_02,1,Python PyTorch BERT fine-tuning and Flask API but no RAG LangChain or vector DB
+jd_03,resume_03,2,Python LangChain RAG FAISS ChromaDB FastAPI and prompt engineering all match
+jd_03,resume_04,1,Python Django REST APIs AWS and Git but no LLM RAG or vector DB
+jd_03,resume_05,0,Only Python and SQL match and no LLM RAG or API experience
+
+jd_04,resume_01,1,Python TensorFlow sklearn Pandas SQL and model training but no fine-tuning or research
+jd_04,resume_02,2,PyTorch BERT fine-tuning sklearn stats and math foundations all match
+jd_04,resume_03,1,LLMs embeddings and vector DBs but no fine-tuning or model training
+jd_04,resume_04,0,Python and a small sklearn project only and no ML depth or research
+jd_04,resume_05,1,Statistics Python Pandas and logistic regression but no deep learning or fine-tuning
+
+jd_05,resume_01,1,Python and SQL but no finance work or GenAI tool use written
+jd_05,resume_02,1,Python and SQL but no finance or reporting work
+jd_05,resume_03,1,Python and LLM tools but no SQL or finance work
+jd_05,resume_04,1,Python and SQL with a computer degree but no finance or GenAI tools
+jd_05,resume_05,2,Python SQL statistics stock returns study reporting and communication match

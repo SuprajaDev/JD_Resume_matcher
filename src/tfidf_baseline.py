@@ -4,20 +4,21 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 from load_data import load_texts
 
-jds = load_texts("data/jds")
-resumes = load_texts("data/resumes")
 
-# 1. Learn the vocabulary from all texts, then turn each text into numbers
-all_texts = list(jds.values()) + list(resumes.values())
-vectorizer = TfidfVectorizer(stop_words="english", lowercase=True)
-vectorizer.fit(all_texts)
+def get_scores():
+    jds = load_texts("data/jds")
+    resumes = load_texts("data/resumes")
 
-jd_vectors = vectorizer.transform(jds.values())
-resume_vectors = vectorizer.transform(resumes.values())
+    all_texts = list(jds.values()) + list(resumes.values())
+    vectorizer = TfidfVectorizer(stop_words="english", lowercase=True)
+    vectorizer.fit(all_texts)
 
-# 2. Compare every JD with every resume
-scores = cosine_similarity(jd_vectors, resume_vectors)
+    jd_vectors = vectorizer.transform(jds.values())
+    resume_vectors = vectorizer.transform(resumes.values())
 
-# 3. Show the scores as a table (rows = JDs, columns = resumes)
-table = pd.DataFrame(scores, index=jds.keys(), columns=resumes.keys())
-print(table.round(2))
+    scores = cosine_similarity(jd_vectors, resume_vectors)
+    return pd.DataFrame(scores, index=jds.keys(), columns=resumes.keys())
+
+
+if __name__ == "__main__":
+    print(get_scores().round(2))

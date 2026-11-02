@@ -6,3 +6,5 @@
  - Pushed 5 JDs and 5 resumes, next: labeling
 ## Oct 31
  - TF-IDF baseline ran. Top-1 correct on 3 of 5 JDs. Misses: jd_01 and jd_03 (long real resume_01 outranked focused ones)
+ ## Nov 1
+ - add ranking output s ripts

@@ -1,0 +1,38 @@
+Company: Bootcoding
+Role: Junior Computer Vision Engineer
+
+Job description
+We are looking for a motivated Junior Computer Vision Engineer to join our dynamic team. The ideal candidate will assist in designing, developing, and optimizing computer vision algorithms to solve real-world problems under the guidance of senior engineers. This role offers an excellent opportunity to gain hands-on experience in the field of computer vision and machine learning within a collaborative work environment.
+
+Responsibilities
+- Assist in developing and implementing computer vision algorithms and models.
+- Preprocess and analyze image and video data for various applications.
+- Collaborate with cross-functional teams to integrate vision solutions into products.
+- Support testing and validation of computer vision models to ensure accuracy and performance.
+- Maintain documentation and contribute to continuous improvement of vision systems.
+
+Qualifications
+- Basic understanding of computer vision concepts and techniques.
+- Familiarity with programming languages such as Python or C++.
+- Knowledge of machine learning frameworks like TensorFlow or PyTorch.
+- Ability to work collaboratively in a team environment.
+- Strong problem-solving and analytical skills.
+
+Preferred skills
+- Experience with OpenCV and image processing libraries.
+- Understanding of deep learning architectures related to vision.
+- Experience with data annotation and preprocessing techniques.
+- Good communication skills for effective collaboration.
+
+Education
+- Bachelor's degree in Computer Science, Electronics, Electrical Engineering or a related field.
+- Diploma or certification courses in Computer Vision or Machine Learning are a plus.
+- Experience level: 0 to 2 years
+
+Role: Computer Vision
+Industry Type: IT Services and Consulting
+Department: Data Science and Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science and Machine Learning
+
+Key Skills: C++, Python, Image processing, Machine learning, Continuous improvement, Computer vision, Electrical engineering, Programming, Analytical skills

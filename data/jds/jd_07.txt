@@ -1,0 +1,44 @@
+Company: SciTech Patent Art
+Role: AI/ML Engineer (NLP and LLM)
+
+Job description
+Location: Hyderabad, India | Experience: 2-3 Years | Employment Type: Full-Time
+
+Job Summary
+Role Overview
+As an AI/ML Engineer at SciTech Patent Art, you will collaborate with data scientists, software engineers, and domain experts to design, develop, and deploy AI-powered solutions. This role offers the opportunity to work on large datasets, build advanced NLP pipelines, and experiment with state-of-the-art LLMs to create real-world impact.
+
+Responsibilities
+- Design, develop, and optimize machine learning models for NLP, computer vision, and predictive analytics.
+- Apply prompt engineering and prompt chaining to improve AI performance.
+- Work with tools like Langflow for AI orchestration.
+- Handle large-scale text data: perform data preprocessing, feature engineering, and augmentation.
+- Research, evaluate, and implement the latest ML algorithms and frameworks.
+- Collaborate with cross-functional teams to turn business requirements into technical solutions.
+- Deploy AI models to cloud environments (AWS, Azure, GCP) for production use.
+
+Requirements
+- Bachelor's or Master's in Computer Science, Machine Learning, AI, or related field.
+- 2-3 years of hands-on experience in AI/ML, with a strong focus on NLP and LLM-based projects.
+- Proficiency in Python and popular ML libraries (TensorFlow, PyTorch, Hugging Face Transformers, etc.).
+- Strong skills in prompt engineering/prompt chaining.
+- Experience with Langflow or similar AI workflow tools.
+- Bonus: Familiarity with web crawling and scraping tools.
+- Strong understanding of statistical concepts, ML algorithms, and model evaluation techniques.
+- Experience with cloud platforms and model deployment.
+- Excellent problem-solving, analytical, and communication skills.
+
+Role: Data Science and Machine Learning - Other
+Industry Type: IT Services and Consulting
+Department: Data Science and Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science and Machine Learning
+
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+
+Key Skills: 
+Computer science, Computer vision, Orchestration, 
+GCP, Analytical, Intellectual property,
+ Machine learning, Workflow, Natural language processing, Python

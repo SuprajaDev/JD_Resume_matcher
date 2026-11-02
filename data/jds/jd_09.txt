@@ -1,0 +1,34 @@
+Company: 47 billion
+Role: Python Developer (Full Stack)
+
+Job description
+Responsibilities
+- Write effective, scalable code
+- Develop back-end components to improve responsiveness and overall performance
+- Integrate user-facing elements into applications
+- Test and debug programs
+- Improve functionality of existing systems
+- Implement security and data protection solutions
+- Integration of user-facing elements developed by front-end developers with server side logic
+- Implementation of security and data protection
+
+Requirements
+- Work experience as a Python Developer
+- Expertise in at least one popular Python framework (like Django, Flask or Pyramid)
+- Knowledge of object-relational mapping (ORM)
+- Familiarity with front-end technologies (like JavaScript and HTML5)
+- Advantageous if know any containerised technology like Docker or Kubernetes
+- Excellent communication is required
+
+Role: Full Stack Developer
+Industry Type: IT Services and Consulting
+Department: Engineering - Software and QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+
+Key Skills: Backend, Front end, HTML5, 
+Django, Debugging, JavaScript, Python

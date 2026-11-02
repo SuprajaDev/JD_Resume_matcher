@@ -1,0 +1,38 @@
+Company : infilect
+role: AI Internship
+
+Internship highlights
+Skills Required: . Good knowledge in deep / machine learning for computer vision of(experience OpenCV,PyTorch,Tensorflow) .
+Experience in Python with system building experience . Smart programmers with strong analytical skills
+Description
+Reading research papers and implementing state-of-the-art techniques
+Rapidly extending publicly available code modules to work on custom problems
+Software development of machine learning back-end
+Rapid experimentation, analysis, and deployment of machine/deep learning models
+Training and testing deep learning models at scale
+Working on cutting-edge technology in object detection, object tracking, OCR in natural scenes, image classification, video analysis, and many more exciting techniques that form the basis of AI (artificial intelligence).
+
+Skills Required:
+
+Good knowledge in deep/machine learning for computer vision of(experience OpenCV, PyTorch, Tensorflow)
+Experience in Python with system building experience
+Smart programmers with strong analytical skills
+
+Job Perks:
+
+Work on a problem that will have positive impact on millions of users
+Work with experienced computer scientists
+Lively and highly collaborative environment
+ 
+Role: Data Science & Machine Learning - Other
+Industry Type: Software Product
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Supply chainAnalytical skillsdeep learningComputer
+ visionBackendArtificial IntelligenceMachine learningManager 
+ TechnologyTestingPython

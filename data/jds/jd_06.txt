@@ -1,0 +1,49 @@
+Company: Technix India Solutions
+Role: Data Engineer
+
+Job description
+We are looking for Data Engineer to join our growing team of analytics experts. The Data Engineers are responsible for expanding and optimizing the data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The candidate should be experienced in data pipeline builder and data wrangler and who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects.
+
+Responsibility
+- Analyze and organize raw data
+- Build data systems and pipelines
+- Evaluate business needs and objectives
+- Interpret trends and patterns
+- Conduct complex data analysis and report on results
+- Prepare data for prescriptive and predictive modeling
+- Build algorithms and prototypes
+- Combine raw information from different sources
+- Explore ways to enhance data quality and reliability
+- Identify opportunities for data acquisition
+- Develop analytical tools and programs
+- Collaborate with data scientists and architects on several projects
+
+Requirements
+- Passion for testing strategy, problem-solving, and continuous learning.
+- Willingness to acquire new skills and knowledge.
+- Possess a product/engineering mindset to drive impactful data solutions.
+- Experience working in distributed environments with global teams.
+- Knowledge or experience in architectural best practices for building data lakes.
+- Expertise with big data technologies, including Spark, Data Lake, Delta Lake, and Hive.
+- Expert-level ability to write complex, optimized SQL queries across extensive data volumes.
+- Experience with RDBMS and OLAP databases like MySQL, Redshift.
+- Solid understanding of batch and streaming data processing techniques
+- High proficiency in Scala/Java and Spark for applied large-scale data processing.
+
+Notes
+- Joining time should not be longer than 15 days.
+
+Role: Data Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+
+Key Skills:
+ Data analysis, Product engineering, RDBMS, 
+ Analytical, MySQL, Data processing, OLAP,
+  Predictive modeling, Data quality, Analytics

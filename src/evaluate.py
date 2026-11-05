@@ -7,6 +7,9 @@ TOP_K = 3
 
 
 def evaluate(scores, labels, k=TOP_K):
+    # only evaluate JDs that have labels
+    scores = scores.loc[scores.index.isin(labels["jd_id"])]
+
     hits = {rank: 0 for rank in range(1, k + 1)}
     ndcgs = []
 
@@ -33,4 +36,4 @@ def evaluate(scores, labels, k=TOP_K):
 
 if __name__ == "__main__":
     labels = pd.read_csv("data/labels/labels.csv")
-    evaluate(get_scores(), labels)
+    evaluate(get_scores(), labels) 

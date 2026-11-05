@@ -1,0 +1,20 @@
+Source: synthetic
+Profile: Computer vision fresher (detection, OCR, deep learning)
+
+[NAME]
+B.E Electronics and Communication, 2027, CGPA 8.0
+
+Experience
+Computer Vision Intern, 3 months
+- Trained an object detection model with YOLO on a custom dataset of 5,000 labeled images
+- Annotated and preprocessed image and video data using OpenCV and Label Studio
+- Reproduced results from a research paper on object tracking and documented the differences
+
+Projects
+- Vehicle detection and tracking: YOLO plus a tracking algorithm on traffic video
+- OCR pipeline: text detection and recognition on photos of shop signs
+- Image classifier: ResNet fine-tuned in PyTorch for defect detection, 94% accuracy
+- Face mask detector: TensorFlow CNN with a real-time webcam demo
+
+Skills
+Python, C++, OpenCV, PyTorch, TensorFlow, YOLO, Image Processing, Deep Learning, Data Annotation, Git2...................

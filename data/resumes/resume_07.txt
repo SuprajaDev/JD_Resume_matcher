@@ -1,0 +1,20 @@
+Source: synthetic
+Profile: NLP / LLM fresher (transformers, prompting)
+
+[NAME]
+M.Tech Computer Science, 2026, CGPA 8.6
+
+Experience
+NLP Research Intern, 4 months
+- Fine-tuned a BERT model for legal document classification using Hugging Face Transformers
+- Preprocessed and augmented large text datasets for training
+- Built prompt chains to extract key clauses from contracts using an LLM API
+
+Projects
+- Text classifier: fine-tuned DistilBERT on 20,000 support tickets, evaluated with F1 and confusion matrices
+- Named entity recognition: spaCy pipeline with custom entities for patent documents
+- Prompt engineering toolkit: reusable prompt templates and chaining with Langflow
+- Web scraper: collected and cleaned article text using BeautifulSoup and Scrapy
+
+Skills
+Python, PyTorch, Hugging Face Transformers, spaCy, NLTK, Prompt Engineering, Langflow, LangChain, scikit-learn, Statistics, AWS (basic), Git

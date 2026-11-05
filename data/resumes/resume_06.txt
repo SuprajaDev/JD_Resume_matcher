@@ -1,0 +1,20 @@
+Source: synthetic
+Profile: Data engineer fresher (Spark, SQL, pipelines)
+
+[NAME]
+B.Tech Information Technology, 2027, CGPA 8.2
+
+Experience
+Data Engineering Intern, 3 months
+- Built ETL pipelines in Python and Spark to move sales data from MySQL into a data warehouse
+- Wrote and optimized SQL queries on tables with millions of rows
+- Scheduled daily pipeline runs with Airflow and added data quality checks
+
+Projects
+- Batch pipeline: PySpark job that cleans and aggregates log files, stored as Parquet on AWS S3
+- Streaming demo: Kafka producer and consumer with a simple Spark Streaming job
+- Data warehouse: designed a star schema and loaded it in Amazon Redshift
+- Hive tables: partitioned tables and queries for a retail dataset
+
+Skills
+Python, SQL, PySpark, Spark, Hive, Kafka (basic), Airflow, MySQL, Redshift, AWS S3, Git, Linux, Data Modeling

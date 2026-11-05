@@ -4,27 +4,107 @@ jd_01,resume_02,1,Python SQL Git and a Flask endpoint but no OOP DSA SDLC
 jd_01,resume_03,1,Python FastAPI REST APIs Git but no SQL OOP DSA
 jd_01,resume_04,2,Python OOP DSA Django REST SQL Git SDLC all match
 jd_01,resume_05,0,Only SQL and reporting match and no Git APIs OOP or DSA
+jd_01,resume_06,1,Python SQL Git but no OOP DSA REST APIs or SDLC written
+jd_01,resume_07,0,Only Python and Git match and no SQL REST APIs OOP or DSA
+jd_01,resume_08,0,Only Python and Git match and no SQL or REST APIs
+jd_01,resume_09,2,Python REST APIs SQL Git debugging and unit tests from a backend internship
+jd_01,resume_10,1,Python SQL Git and FastAPI Flask backends but no OOP DSA or SDLC written
 
 jd_02,resume_01,2,Python TensorFlow CNN sklearn Pandas SQL preprocessing and Streamlit deployment but no API
 jd_02,resume_02,2,Python PyTorch sklearn feature engineering model evaluation Flask API and SQL all match
 jd_02,resume_03,1,Python and a basic sklearn model and FastAPI but no deep learning SQL or data cleaning
 jd_02,resume_04,1,Python SQL and APIs but only one small sklearn project and no deep learning
 jd_02,resume_05,1,Python Pandas SQL and data cleaning but no deep learning deployment or APIs
+jd_02,resume_06,1,Python SQL and data cleaning pipelines but no model training
+jd_02,resume_07,2,Python PyTorch BERT fine-tuning sklearn preprocessing and F1 evaluation but no deployment written
+jd_02,resume_08,2,Python PyTorch TensorFlow deep learning model training and preprocessing but no SQL or API
+jd_02,resume_09,0,Python REST APIs and SQL but no machine learning at all
+jd_02,resume_10,2,Python sklearn Pandas SQL TensorFlow basics and FastAPI Streamlit deployment
 
 jd_03,resume_01,1,Python Git and ML basics but no RAG LangChain vector DB or APIs written
 jd_03,resume_02,1,Python PyTorch BERT fine-tuning and Flask API but no RAG LangChain or vector DB
 jd_03,resume_03,2,Python LangChain RAG FAISS ChromaDB FastAPI and prompt engineering all match
 jd_03,resume_04,1,Python Django REST APIs AWS and Git but no LLM RAG or vector DB
 jd_03,resume_05,0,Only Python and SQL match and no LLM RAG or API experience
+jd_03,resume_06,0,Python and AWS only and no LLM RAG or API work
+jd_03,resume_07,1,LangChain prompt engineering LLM API chains and AWS but no RAG or vector DB
+jd_03,resume_08,0,Python only and no LLM RAG or backend APIs
+jd_03,resume_09,1,Python Flask REST APIs Git but no LLM RAG or vector DB
+jd_03,resume_10,1,Python FastAPI Flask and a pretrained model app but no RAG or LangChain
 
 jd_04,resume_01,1,Python TensorFlow sklearn Pandas SQL and model training but no fine-tuning or research
 jd_04,resume_02,2,PyTorch BERT fine-tuning sklearn stats and math foundations all match
 jd_04,resume_03,1,LLMs embeddings and vector DBs but no fine-tuning or model training
 jd_04,resume_04,0,Python and a small sklearn project only and no ML depth or research
 jd_04,resume_05,1,Statistics Python Pandas and logistic regression but no deep learning or fine-tuning
+jd_04,resume_06,0,Python SQL and AWS but no machine learning or research
+jd_04,resume_07,2,BERT fine-tuning PyTorch sklearn statistics evaluation and LLM work
+jd_04,resume_08,2,PyTorch TensorFlow fine-tuning training and a reproduced research paper
+jd_04,resume_09,0,No machine learning and only backend skills
+jd_04,resume_10,1,sklearn Pandas SQL and basic TensorFlow but no fine-tuning math or research
 
 jd_05,resume_01,1,Python and SQL but no finance work or GenAI tool use written
 jd_05,resume_02,1,Python and SQL but no finance or reporting work
 jd_05,resume_03,1,Python and LLM tools but no SQL or finance work
 jd_05,resume_04,1,Python and SQL with a computer degree but no finance or GenAI tools
 jd_05,resume_05,2,Python SQL statistics stock returns study reporting and communication match
+jd_05,resume_06,1,Python SQL and an IT degree but no finance or GenAI tools
+jd_05,resume_07,1,Python and LLM prompt tools but no SQL or finance work
+jd_05,resume_08,0,Python only and no SQL finance or GenAI tools
+jd_05,resume_09,1,Python and SQL but no finance work or GenAI tools
+jd_05,resume_10,1,Python SQL Pandas and a Hugging Face summarizer but no finance work
+
+jd_06,resume_01,0,Python and SQL skills only and no Spark Hive Redshift or pipelines
+jd_06,resume_02,0,Python SQL Pandas and Docker basics but no big data or pipelines
+jd_06,resume_03,0,Python and vector stores but no Spark SQL or data pipelines
+jd_06,resume_04,1,SQL PostgreSQL query tuning and AWS but no Spark Hive or pipelines
+jd_06,resume_05,1,SQL data cleaning and reporting but no Spark Hive or streaming
+jd_06,resume_06,2,Spark PySpark Hive Kafka Airflow Redshift MySQL pipelines and data quality all match
+jd_06,resume_07,0,Python and text data prep only and no Spark SQL or pipelines
+jd_06,resume_08,0,Computer vision work only and no SQL Spark or pipelines
+jd_06,resume_09,0,Django ORM and PostgreSQL only and no big data or pipelines
+jd_06,resume_10,0,SQLite and Pandas basics only and no Spark Hive or pipelines
+
+jd_07,resume_01,1,Python TensorFlow sklearn and preprocessing but no NLP prompt engineering or Langflow
+jd_07,resume_02,2,BERT fine-tuning Hugging Face PyTorch sklearn and preprocessing but no prompt engineering or cloud
+jd_07,resume_03,2,LLM APIs prompt engineering LangChain LangGraph embeddings AWS and FastAPI match
+jd_07,resume_04,0,Python and a small sentiment project only and no NLP depth or LLM work
+jd_07,resume_05,0,Python and statistics but no NLP or LLM work
+jd_07,resume_06,0,Data pipelines only and no NLP or ML libraries
+jd_07,resume_07,2,BERT fine-tuning spaCy prompt chains Langflow Hugging Face PyTorch AWS and text preprocessing all match
+jd_07,resume_08,1,PyTorch TensorFlow and deep learning but no NLP or prompt engineering
+jd_07,resume_09,0,Web backend only and no NLP or ML
+jd_07,resume_10,1,Hugging Face summarizer sklearn and Python but no prompt engineering or fine-tuning
+
+jd_08,resume_01,2,Python TensorFlow CNN OpenCV preprocessing and a deployed vision app match
+jd_08,resume_02,1,Python PyTorch TensorFlow and a CNN project but no OpenCV or annotation
+jd_08,resume_03,0,No vision work and only LLM and RAG skills
+jd_08,resume_04,0,Backend work only and no vision or deep learning
+jd_08,resume_05,0,Analytics only and no vision or deep learning
+jd_08,resume_06,0,Data pipelines only and no vision or deep learning
+jd_08,resume_07,0,NLP work only and no vision or OpenCV
+jd_08,resume_08,2,OpenCV YOLO PyTorch TensorFlow C++ annotation and image preprocessing all match
+jd_08,resume_09,0,Web development only and no vision or ML
+jd_08,resume_10,1,Python TensorFlow and a CIFAR CNN but no OpenCV or image preprocessing
+
+jd_09,resume_01,1,Python web intern JavaScript HTML and Git but no Django Flask ORM or Docker
+jd_09,resume_02,1,Python Flask API and Docker basics but no ORM or front end work
+jd_09,resume_03,1,Python FastAPI and REST APIs but no Django ORM front end or Docker
+jd_09,resume_04,2,Django Flask REST framework PostgreSQL JWT security and Docker basics but no front end listed
+jd_09,resume_05,0,Analytics only and no web framework or backend work
+jd_09,resume_06,0,Data engineering only and no web framework or front end
+jd_09,resume_07,0,NLP only and no web framework or backend work
+jd_09,resume_08,0,Computer vision only and no web framework or backend work
+jd_09,resume_09,2,Django Flask ORM JavaScript HTML5 Docker authentication and testing all match
+jd_09,resume_10,1,Flask FastAPI JavaScript and HTML but no ORM or Docker
+
+jd_10,resume_01,2,OpenCV TensorFlow CNN custom dataset end to end Python system and deployment match
+jd_10,resume_02,1,PyTorch TensorFlow and a CNN project but no OpenCV object detection or OCR
+jd_10,resume_03,0,No vision work
+jd_10,resume_04,0,No vision or deep learning
+jd_10,resume_05,0,No vision or deep learning
+jd_10,resume_06,0,No vision or deep learning
+jd_10,resume_07,0,NLP and PyTorch but no computer vision
+jd_10,resume_08,2,OpenCV YOLO PyTorch TensorFlow OCR object tracking and paper reproduction all match
+jd_10,resume_09,0,No vision or deep learning
+jd_10,resume_10,1,Python TensorFlow and a CIFAR CNN but no OpenCV detection or OCR

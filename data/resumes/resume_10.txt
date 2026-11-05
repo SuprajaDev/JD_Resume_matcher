@@ -1,0 +1,20 @@
+Source: synthetic
+Profile: Mixed ML and web developer (messy, realistic)
+
+[NAME]
+B.Tech Artificial Intelligence and Data Science, 2027, CGPA 8.3
+
+Experience
+Software Intern, 2 months
+- Built a small internal tool with Flask and SQL for tracking support tickets
+- Cleaned and analysed customer data in Pandas and presented a summary to the team
+
+Projects
+- House price predictor: scikit-learn regression models with a Streamlit front end
+- Portfolio website: HTML, CSS and JavaScript, deployed on GitHub Pages
+- News summarizer: used a pretrained Hugging Face model to summarize articles in a web app
+- Expense tracker: FastAPI and SQLite back end with a simple React front end
+- Image classifier: small CNN on CIFAR-10 in TensorFlow
+
+Skills
+Python, SQL, scikit-learn, Pandas, TensorFlow (basic), Hugging Face (basic), FastAPI, Flask, JavaScript, React (basic), HTML, CSS, Git

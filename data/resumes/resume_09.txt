@@ -1,0 +1,20 @@
+Source: synthetic
+Profile: Full stack Python developer fresher
+
+[NAME]
+B.Tech Computer Science, 2027, CGPA 7.8
+
+Experience
+Full Stack Developer Intern, 4 months
+- Built back-end features in Django and connected them to a React front end
+- Used the Django ORM to design models and write database queries on PostgreSQL
+- Fixed bugs, wrote unit tests, and added input validation and authentication for data protection
+
+Projects
+- Online booking system: Django, PostgreSQL, JavaScript and HTML5 front end
+- Blog platform: Flask, SQLAlchemy ORM, user login and role permissions
+- Containerised app: Dockerfile and docker-compose for a Flask API with a database
+- Weather dashboard: JavaScript front end calling a Python REST API
+
+Skills
+Python, Django, Flask, SQLAlchemy, REST APIs, JavaScript, HTML5, CSS, React (basic), PostgreSQL, Docker, Git, Debugging

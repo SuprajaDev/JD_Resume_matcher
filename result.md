@@ -7,3 +7,4 @@
 
 Test: 10 JDs x 10 resumes, 100 labeled pairs.
 Limits: small test set, 9 of 10 resumes are synthetic, and the labels were drafted with AI help and reviewed by me.
+Finding: chunked scores are nearly tied for most resumes on jd_07, and resume_01 (the only real resume) ranks high in every method. Possible causes: resume length and writing style.

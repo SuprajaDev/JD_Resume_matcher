@@ -8,7 +8,9 @@
  - TF-IDF baseline ran. Top-1 correct on 3 of 5 JDs. Misses: jd_01 and jd_03 (long real resume_01 outranked focused ones)
  ## Nov 1
  - add ranking output s ripts
-## Nov 5
+## Nov 4
 - Day 4: labeled all 100 pairs (batch 1 and 2). TF-IDF baseline on 10x10: top-1 8/10, top-2 10/10, NDCG@3 0.90
-## Nov 6 
+## Nov 5
 - Day 5: installed sentence-transformers, ran plain embeddings. Top-1 6/10 vs TF-IDF 8/10. Cause: long texts get cut off, so next is chunking
+## Nov 6
+- failure inspection and findings

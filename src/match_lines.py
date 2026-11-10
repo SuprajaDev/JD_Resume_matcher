@@ -8,7 +8,14 @@ MODEL = SentenceTransformer("all-MiniLM-L6-v2")
 
 
 def requirement_lines(jd_text):
-    return [line[2:].strip() for line in jd_text.splitlines() if line.startswith("- ")]
+    lines = []
+    for line in jd_text.splitlines():
+        line = line.strip()
+        if line.startswith("- "):
+            lines.append(line[2:].strip())
+        elif line.startswith("•"):
+            lines.extend(p.strip() for p in line.split("•") if len(p.split()) >= 3)
+    return lines
 
 
 def resume_lines(resume_text):

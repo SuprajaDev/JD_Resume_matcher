@@ -17,4 +17,4 @@ Projects
 - Face mask detector: TensorFlow CNN with a real-time webcam demo
 
 Skills
-Python, C++, OpenCV, PyTorch, TensorFlow, YOLO, Image Processing, Deep Learning, Data Annotation, Git2...................
+Python, C++, OpenCV, PyTorch, TensorFlow, YOLO, Image Processing, Deep Learning, Data Annotation, Git

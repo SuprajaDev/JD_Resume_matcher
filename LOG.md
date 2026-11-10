@@ -14,3 +14,5 @@
 - Day 5: installed sentence-transformers, ran plain embeddings. Top-1 6/10 vs TF-IDF 8/10. Cause: long texts get cut off, so next is chunking
 ## Nov 6
 - failure inspection and findings
+## Nov 9
+ - Day 6: length test (real resume 460 words vs about 125 for synthetic). Hybrid TF-IDF + chunked embeddings: NDCG@3 0.91, top-2 10/10. Chosen for the demo

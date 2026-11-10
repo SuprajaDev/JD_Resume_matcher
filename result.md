@@ -2,9 +2,11 @@
 
 | Method | Top-1 | Top-2 | Top-3 | Mean NDCG@3 | Notes |
 |---|---|---|---|---|---|
-| TF-IDF baseline | 8 of 10 (80%) | 10 of 10 | 10 of 10 | 0.90 | Misses at jd_01 and jd_03: long real resume_01 ranks first |
-| Embeddings (plain, MiniLM) | 6 of 10 (60%) | 9 of 10 | 10 of 10 | 0.88 | Lost to TF-IDF: texts longer than the model's 256-piece limit |
+| TF-IDF baseline | 8 of 10 | 10 of 10 | 10 of 10 | 0.90 | Strong baseline. Misses jd_01 and jd_03 |
+| Embeddings (plain, MiniLM) | 6 of 10 | 9 of 10 | 10 of 10 | 0.88 | Long texts cut off at the model's limit |
+| Embeddings (chunked, 80 words) | 7 of 10 | 8 of 10 | 9 of 10 | 0.87 | Fixes jd_01, drops on jd_07 |
+| Hybrid: TF-IDF + plain | 6 of 10 | 10 of 10 | 10 of 10 | 0.88 | No gain over TF-IDF alone |
+| Hybrid: TF-IDF + chunked | 7 of 10 | 10 of 10 | 10 of 10 | 0.91 | Best NDCG and best top-2. Chosen for the demo |
 
 Test: 10 JDs x 10 resumes, 100 labeled pairs.
-Limits: small test set, 9 of 10 resumes are synthetic, and the labels were drafted with AI help and reviewed by me.
-Finding: chunked scores are nearly tied for most resumes on jd_07, and resume_01 (the only real resume) ranks high in every method. Possible causes: resume length and writing style.
+Limits: small test set. 9 of 10 resumes are synthetic (about 125 words) while the one real resume is 460 words, which inflates its scores. Labels were drafted with AI help and reviewed by me. Differences of one job (10 points of top-1) are within noise.

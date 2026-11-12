@@ -16,3 +16,5 @@
 - failure inspection and findings
 ## Nov 9
  - Day 6: length test (real resume 460 words vs about 125 for synthetic). Hybrid TF-IDF + chunked embeddings: NDCG@3 0.91, top-2 10/10. Chosen for the demo
+## Nov 10
+ - line matching, Streamlit app, API setup, LLM explanations with quote check (0 invented quotes on jd_08 test)

@@ -12,6 +12,8 @@ load_dotenv()
 CLIENT = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=os.environ["OPENROUTER_API_KEY"],
+    timeout=120,
+    max_retries=1,
 )
 MODEL_NAME = os.environ["OPENROUTER_MODEL"]
 
@@ -26,6 +28,7 @@ def build_prompt(matches):
         "For each requirement, look ONLY at the resume lines listed under it.\n"
         "Answer MATCH if a line clearly shows the skill, PARTIAL if it shows part of it, "
         "GAP if no line shows it.\n"
+                "Be strict: soft skills such as communication, teamwork or problem solving are GAP unless a line states them explicitly.\n"
         "If MATCH or PARTIAL, copy the supporting line EXACTLY, word for word, into quote. "
         "Otherwise quote is an empty string.\n"
         "Reply with ONLY a JSON list like "

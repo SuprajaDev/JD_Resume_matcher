@@ -1,0 +1,1726 @@
+{
+ "jd_01|resume_04": [
+  {
+   "requirement": "We are looking for enthusiastic and highly motivated fresh graduates with a strong foundation in Python programming",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "This role provides an excellent opportunity to build a career in application development, automation, data processing,",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Good knowledge of Python programming.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Understanding of Object Oriented Programming (OOP) concepts.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Basic knowledge of:",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Data Structures & Algorithms",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "SQL and Database Concepts",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Git Version Control",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Software Development Life Cycle (SDLC)",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Develop, test, and maintain Python-based applications and scripts.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Participate in coding, debugging, and troubleshooting activities.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Assist in developing REST APIs and backend services.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Support automation and process improvement initiatives.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Work on data processing, reporting, and analytics solutions.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Participate in code reviews and follow coding standards.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Collaborate with cross-functional teams to understand requirements and deliver solutions.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Prepare technical documentation and project updates.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Learn and adopt emerging technologies, tools, and frameworks.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong analytical and problem-solving skills.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Excellent communication and teamwork skills.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Eagerness to learn new technologies.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Ability to work in a collaborative and fast-paced environment.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Positive attitude and customer-centric mindset.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_01|resume_01": [
+  {
+   "requirement": "We are looking for enthusiastic and highly motivated fresh graduates with a strong foundation in Python programming",
+   "verdict": "PARTIAL",
+   "quote": "Programming Languages: Python, SQL, JavaScript, HTML/CSS",
+   "fake_quote": false
+  },
+  {
+   "requirement": "This role provides an excellent opportunity to build a career in application development, automation, data processing,",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Good knowledge of Python programming.",
+   "verdict": "MATCH",
+   "quote": "Programming Languages: Python, SQL, JavaScript, HTML/CSS",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Understanding of Object Oriented Programming (OOP) concepts.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Basic knowledge of:",
+   "verdict": "PARTIAL",
+   "quote": "B.Tech Artificial Intelligence and Data Science student (CGPA: 8.53) specializing in Machine Learning and applied AI, with hands",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Data Structures & Algorithms",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "SQL and Database Concepts",
+   "verdict": "MATCH",
+   "quote": "Programming Languages: Python, SQL, JavaScript, HTML/CSS",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Git Version Control",
+   "verdict": "MATCH",
+   "quote": "Tools / Platforms: Git, GitHub, VS Code, Excel",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Software Development Life Cycle (SDLC)",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Develop, test, and maintain Python-based applications and scripts.",
+   "verdict": "MATCH",
+   "quote": "\u25cf Built and tested Python-based web application features as part of an agile development team",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Participate in coding, debugging, and troubleshooting activities.",
+   "verdict": "PARTIAL",
+   "quote": "\u25cf Worked with structured data and debugged functional issues alongside senior developers, gaining exposure to real",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Assist in developing REST APIs and backend services.",
+   "verdict": "PARTIAL",
+   "quote": "\u25cf Built a web app using vanilla JavaScript integrating the GitHub REST API; deployed publicly via GitHub Pages",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Support automation and process improvement initiatives.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work on data processing, reporting, and analytics solutions.",
+   "verdict": "PARTIAL",
+   "quote": "\u25cf Worked with structured data and debugged functional issues alongside senior developers, gaining exposure to real",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Participate in code reviews and follow coding standards.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with cross-functional teams to understand requirements and deliver solutions.",
+   "verdict": "PARTIAL",
+   "quote": "\u25cf Worked with structured data and debugged functional issues alongside senior developers, gaining exposure to real",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Prepare technical documentation and project updates.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Learn and adopt emerging technologies, tools, and frameworks.",
+   "verdict": "MATCH",
+   "quote": "Other Frameworks: Streamlit, Flutter",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong analytical and problem-solving skills.",
+   "verdict": "MATCH",
+   "quote": "into Generative AI and LLM-based systems. Seeking an AI/ML Engineer or Python Developer role to apply strong problem-solving",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Excellent communication and teamwork skills.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Eagerness to learn new technologies.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Ability to work in a collaborative and fast-paced environment.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Positive attitude and customer-centric mindset.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_04|resume_01": [
+  {
+   "requirement": "Explore and analyse large conversation, call, and usage datasets to surface patterns, insights, and improvement opportunities.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build, train, and evaluate ML models for classification, scoring, and quality tasks across the agent platform.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Fine-tune and adapt LLMs and smaller models for specific BFSI use cases.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Design evaluation pipelines and metrics to measure model and agent performance (accuracy, reliability, business impact).",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Read relevant AI and ML research and implement useful ideas from papers.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Run structured experiments, track results, and document findings clearly.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work with engineers to integrate models into production workflows.",
+   "verdict": "PARTIAL",
+   "quote": "in end-to-end model development \u2014 from data preprocessing to deployment as interactive applications. Currently expanding",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build data pipelines and tooling for feature engineering, labelling, and analysis.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong understanding of Machine Learning and Artificial Intelligence fundamentals, including supervised and unsupervised learning, deep learning basics, and common model architectures.",
+   "verdict": "PARTIAL",
+   "quote": "B.Tech Artificial Intelligence and Data Science student (CGPA: 8.53) specializing in Machine Learning and applied AI, with hands",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Good grasp of the mathematical foundations behind machine learning models, including linear algebra, probability, statistics, calculus, and optimization techniques.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Comfortable reading and understanding AI and ML research papers and implementing ideas from them when required.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Hands-on experience with model fine-tuning through academic projects, internships, research work, or personal projects.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Familiarity with Python and popular ML frameworks such as PyTorch, TensorFlow, or Scikit-learn.",
+   "verdict": "MATCH",
+   "quote": "TensorFlow, OpenCV, Streamlit, Python",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Analytical mindset to evaluate model outputs and data quality.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Currently pursuing or recently completed a degree in Computer Science, Data Science, Statistics, Mathematics, or a related field.",
+   "verdict": "MATCH",
+   "quote": "B.Tech Artificial Intelligence and Data Science student (CGPA: 8.53) specializing in Machine Learning and applied AI, with hands",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Published or co-authored AI and ML research papers, or active contributions to open-source AI projects.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience participating in AI and ML hackathons, research initiatives, or Kaggle competitions.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Exposure to LLMs, embeddings, and vector databases.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with data tools (Pandas, NumPy, SQL) and visualization.",
+   "verdict": "PARTIAL",
+   "quote": "ML / AI: TensorFlow, Keras, OpenCV, NumPy, Pandas, Scikit-learn",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Exposure to cloud platforms (AWS, GCP).",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "How to apply data science and ML in real production AI systems.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Fine-tuning and evaluating models for real BFSI use cases.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Turning messy real-world data into models and insights.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Building evaluation pipelines and measuring what actually matters.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "How models behave under real user conditions.",
+   "verdict": "MATCH",
+   "quote": "\u25cf Deployed the model as an interactive Streamlit app for live, real-time predictions",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Ship measurable improvements to model or agent performance.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Deliver clean, well-documented experiments and analyses.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Turn data into decisions that influence the product.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Demonstrate structured experimentation and strong learning velocity.",
+   "verdict": "PARTIAL",
+   "quote": "\u25cf Deployed the trained model as a live Streamlit web application, taking it from notebook experiment to a usable real",
+   "fake_quote": false
+  }
+ ],
+ "jd_04|resume_02": [
+  {
+   "requirement": "Explore and analyse large conversation, call, and usage datasets to surface patterns, insights, and improvement opportunities.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build, train, and evaluate ML models for classification, scoring, and quality tasks across the agent platform.",
+   "verdict": "MATCH",
+   "quote": "Trained and evaluated classification models on tabular customer data using scikit-learn",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Fine-tune and adapt LLMs and smaller models for specific BFSI use cases.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Design evaluation pipelines and metrics to measure model and agent performance (accuracy, reliability, business impact).",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Read relevant AI and ML research and implement useful ideas from papers.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Run structured experiments, track results, and document findings clearly.",
+   "verdict": "PARTIAL",
+   "quote": "Documented experiments and metrics for the team",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work with engineers to integrate models into production workflows.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build data pipelines and tooling for feature engineering, labelling, and analysis.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong understanding of Machine Learning and Artificial Intelligence fundamentals, including supervised and unsupervised learning, deep learning basics, and common model architectures.",
+   "verdict": "MATCH",
+   "quote": "B.Tech Artificial Intelligence and Data Science, 2027, CGPA 8.4",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Good grasp of the mathematical foundations behind machine learning models, including linear algebra, probability, statistics, calculus, and optimization techniques.",
+   "verdict": "PARTIAL",
+   "quote": "Python, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, SQL, Git, Docker (basic), Linear Algebra, Probability, Statistics",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Comfortable reading and understanding AI and ML research papers and implementing ideas from them when required.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Hands-on experience with model fine-tuning through academic projects, internships, research work, or personal projects.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Familiarity with Python and popular ML frameworks such as PyTorch, TensorFlow, or Scikit-learn.",
+   "verdict": "MATCH",
+   "quote": "Python, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, SQL, Git, Docker (basic), Linear Algebra, Probability, Statistics",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Analytical mindset to evaluate model outputs and data quality.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Currently pursuing or recently completed a degree in Computer Science, Data Science, Statistics, Mathematics, or a related field.",
+   "verdict": "MATCH",
+   "quote": "B.Tech Artificial Intelligence and Data Science, 2027, CGPA 8.4",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Published or co-authored AI and ML research papers, or active contributions to open-source AI projects.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience participating in AI and ML hackathons, research initiatives, or Kaggle competitions.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Exposure to LLMs, embeddings, and vector databases.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with data tools (Pandas, NumPy, SQL) and visualization.",
+   "verdict": "PARTIAL",
+   "quote": "Python, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, SQL, Git, Docker (basic), Linear Algebra, Probability, Statistics",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Exposure to cloud platforms (AWS, GCP).",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "How to apply data science and ML in real production AI systems.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Fine-tuning and evaluating models for real BFSI use cases.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Turning messy real-world data into models and insights.",
+   "verdict": "PARTIAL",
+   "quote": "Trained and evaluated classification models on tabular customer data using scikit-learn",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Building evaluation pipelines and measuring what actually matters.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "How models behave under real user conditions.",
+   "verdict": "PARTIAL",
+   "quote": "Sentiment analysis: fine-tuned a BERT model on product reviews using Hugging Face",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Ship measurable improvements to model or agent performance.",
+   "verdict": "MATCH",
+   "quote": "Improved F1 score from 0.71 to 0.79 through feature engineering and hyperparameter tuning",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Deliver clean, well-documented experiments and analyses.",
+   "verdict": "MATCH",
+   "quote": "Documented experiments and metrics for the team",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Turn data into decisions that influence the product.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Demonstrate structured experimentation and strong learning velocity.",
+   "verdict": "PARTIAL",
+   "quote": "Documented experiments and metrics for the team",
+   "fake_quote": false
+  }
+ ],
+ "jd_05|resume_05": [
+  {
+   "requirement": "Work with close knit team of senior researchers, data scientists and technologists to evaluate and improve processes and investment strategies",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Identify trends and issues in end-to-end investment process including but not limited to data, models, portfolio and trading",
+   "verdict": "PARTIAL",
+   "quote": "Stock returns study: calculated risk and return of 10 stocks, summarized in a report",
+   "fake_quote": false
+  },
+  {
+   "requirement": "M.B.A in Finance, B.E in Computers or B.S in Economics",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Basic knowledge of Python and SQL is necessary",
+   "verdict": "MATCH",
+   "quote": "Excel (pivot tables, VLOOKUP), SQL, Power BI, Tableau, Python (Pandas, NumPy, Matplotlib), Statistics, Data Cleaning, Reporting, Communication",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Comfortable using GPT and other generative AI tools",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Diligent, self-motivated and resourceful; able to multi-task and focus on delivering results",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Good written and oral communication skills",
+   "verdict": "MATCH",
+   "quote": "Excel (pivot tables, VLOOKUP), SQL, Power BI, Tableau, Python (Pandas, NumPy, Matplotlib), Statistics, Data Cleaning, Reporting, Communication",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Flexibility to work from home",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_05|resume_10": [
+  {
+   "requirement": "Work with close knit team of senior researchers, data scientists and technologists to evaluate and improve processes and investment strategies",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Identify trends and issues in end-to-end investment process including but not limited to data, models, portfolio and trading",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "M.B.A in Finance, B.E in Computers or B.S in Economics",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Basic knowledge of Python and SQL is necessary",
+   "verdict": "MATCH",
+   "quote": "Python, SQL, scikit-learn, Pandas, TensorFlow (basic), Hugging Face (basic), FastAPI, Flask, JavaScript, React (basic), HTML, CSS, Git",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Comfortable using GPT and other generative AI tools",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Diligent, self-motivated and resourceful; able to multi-task and focus on delivering results",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Good written and oral communication skills",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Flexibility to work from home",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_06|resume_06": [
+  {
+   "requirement": "Analyze and organize raw data",
+   "verdict": "MATCH",
+   "quote": "Hive tables: partitioned tables and queries for a retail dataset",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build data systems and pipelines",
+   "verdict": "MATCH",
+   "quote": "Built ETL pipelines in Python and Spark to move sales data from MySQL into a data warehouse",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Evaluate business needs and objectives",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Interpret trends and patterns",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Conduct complex data analysis and report on results",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Prepare data for prescriptive and predictive modeling",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build algorithms and prototypes",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Combine raw information from different sources",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Explore ways to enhance data quality and reliability",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Identify opportunities for data acquisition",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Develop analytical tools and programs",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with data scientists and architects on several projects",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Passion for testing strategy, problem-solving, and continuous learning.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Willingness to acquire new skills and knowledge.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Possess a product/engineering mindset to drive impactful data solutions.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience working in distributed environments with global teams.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Knowledge or experience in architectural best practices for building data lakes.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Expertise with big data technologies, including Spark, Data Lake, Delta Lake, and Hive.",
+   "verdict": "PARTIAL",
+   "quote": "Python, SQL, PySpark, Spark, Hive, Kafka (basic), Airflow, MySQL, Redshift, AWS S3, Git, Linux, Data Modeling",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Expert-level ability to write complex, optimized SQL queries across extensive data volumes.",
+   "verdict": "MATCH",
+   "quote": "Wrote and optimized SQL queries on tables with millions of rows",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with RDBMS and OLAP databases like MySQL, Redshift.",
+   "verdict": "MATCH",
+   "quote": "Python, SQL, PySpark, Spark, Hive, Kafka (basic), Airflow, MySQL, Redshift, AWS S3, Git, Linux, Data Modeling",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Solid understanding of batch and streaming data processing techniques",
+   "verdict": "MATCH",
+   "quote": "Python, SQL, PySpark, Spark, Hive, Kafka (basic), Airflow, MySQL, Redshift, AWS S3, Git, Linux, Data Modeling",
+   "fake_quote": false
+  },
+  {
+   "requirement": "High proficiency in Scala/Java and Spark for applied large-scale data processing.",
+   "verdict": "PARTIAL",
+   "quote": "Python, SQL, PySpark, Spark, Hive, Kafka (basic), Airflow, MySQL, Redshift, AWS S3, Git, Linux, Data Modeling",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Joining time should not be longer than 15 days.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_06|resume_05": [
+  {
+   "requirement": "Analyze and organize raw data",
+   "verdict": "MATCH",
+   "quote": "Wrote SQL queries to pull and clean data from the company database",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build data systems and pipelines",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Evaluate business needs and objectives",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Interpret trends and patterns",
+   "verdict": "MATCH",
+   "quote": "Sales dashboard: Power BI dashboard with monthly trends and regional breakdown",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Conduct complex data analysis and report on results",
+   "verdict": "MATCH",
+   "quote": "Survey analysis: hypothesis tests on 500 responses",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Prepare data for prescriptive and predictive modeling",
+   "verdict": "MATCH",
+   "quote": "Customer churn analysis: exploratory analysis in Python (Pandas, Matplotlib) and a basic logistic regression",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build algorithms and prototypes",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Combine raw information from different sources",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Explore ways to enhance data quality and reliability",
+   "verdict": "PARTIAL",
+   "quote": "Wrote SQL queries to pull and clean data from the company database",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Identify opportunities for data acquisition",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Develop analytical tools and programs",
+   "verdict": "MATCH",
+   "quote": "Sales dashboard: Power BI dashboard with monthly trends and regional breakdown",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with data scientists and architects on several projects",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Passion for testing strategy, problem-solving, and continuous learning.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Willingness to acquire new skills and knowledge.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Possess a product/engineering mindset to drive impactful data solutions.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience working in distributed environments with global teams.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Knowledge or experience in architectural best practices for building data lakes.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Expertise with big data technologies, including Spark, Data Lake, Delta Lake, and Hive.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Expert-level ability to write complex, optimized SQL queries across extensive data volumes.",
+   "verdict": "PARTIAL",
+   "quote": "Wrote SQL queries to pull and clean data from the company database",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with RDBMS and OLAP databases like MySQL, Redshift.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Solid understanding of batch and streaming data processing techniques",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "High proficiency in Scala/Java and Spark for applied large-scale data processing.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Joining time should not be longer than 15 days.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_07|resume_01": [
+  {
+   "requirement": "Design, develop, and optimize machine learning models for NLP, computer vision, and predictive analytics.",
+   "verdict": "PARTIAL",
+   "quote": "\u25cf Designed and trained a custom CNN using TensorFlow/Keras, tuning architecture and preprocessing to maximize",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Apply prompt engineering and prompt chaining to improve AI performance.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work with tools like Langflow for AI orchestration.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Handle large-scale text data: perform data preprocessing, feature engineering, and augmentation.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Research, evaluate, and implement the latest ML algorithms and frameworks.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with cross-functional teams to turn business requirements into technical solutions.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Deploy AI models to cloud environments (AWS, Azure, GCP) for production use.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Bachelor's or Master's in Computer Science, Machine Learning, AI, or related field.",
+   "verdict": "MATCH",
+   "quote": "Bachelor of Technology in Artificial Intelligence and Data Science | CGPA: 8.53, Nagercoil, Tamil Nadu",
+   "fake_quote": false
+  },
+  {
+   "requirement": "2-3 years of hands-on experience in AI/ML, with a strong focus on NLP and LLM-based projects.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Proficiency in Python and popular ML libraries (TensorFlow, PyTorch, Hugging Face Transformers, etc.).",
+   "verdict": "PARTIAL",
+   "quote": "on experience building and deploying computer vision and deep learning models using Python, TensorFlow, and OpenCV. Skilled",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong skills in prompt engineering/prompt chaining.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with Langflow or similar AI workflow tools.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Bonus: Familiarity with web crawling and scraping tools.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong understanding of statistical concepts, ML algorithms, and model evaluation techniques.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with cloud platforms and model deployment.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Excellent problem-solving, analytical, and communication skills.",
+   "verdict": "PARTIAL",
+   "quote": "into Generative AI and LLM-based systems. Seeking an AI/ML Engineer or Python Developer role to apply strong problem-solving",
+   "fake_quote": false
+  }
+ ],
+ "jd_07|resume_07": [
+  {
+   "requirement": "Design, develop, and optimize machine learning models for NLP, computer vision, and predictive analytics.",
+   "verdict": "PARTIAL",
+   "quote": "Text classifier: fine-tuned DistilBERT on 20,000 support tickets, evaluated with F1 and confusion matrices",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Apply prompt engineering and prompt chaining to improve AI performance.",
+   "verdict": "MATCH",
+   "quote": "Prompt engineering toolkit: reusable prompt templates and chaining with Langflow",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work with tools like Langflow for AI orchestration.",
+   "verdict": "MATCH",
+   "quote": "Prompt engineering toolkit: reusable prompt templates and chaining with Langflow",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Handle large-scale text data: perform data preprocessing, feature engineering, and augmentation.",
+   "verdict": "PARTIAL",
+   "quote": "Preprocessed and augmented large text datasets for training",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Research, evaluate, and implement the latest ML algorithms and frameworks.",
+   "verdict": "MATCH",
+   "quote": "Text classifier: fine-tuned DistilBERT on 20,000 support tickets, evaluated with F1 and confusion matrices",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with cross-functional teams to turn business requirements into technical solutions.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Deploy AI models to cloud environments (AWS, Azure, GCP) for production use.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Bachelor's or Master's in Computer Science, Machine Learning, AI, or related field.",
+   "verdict": "MATCH",
+   "quote": "M.Tech Computer Science, 2026, CGPA 8.6",
+   "fake_quote": false
+  },
+  {
+   "requirement": "2-3 years of hands-on experience in AI/ML, with a strong focus on NLP and LLM-based projects.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Proficiency in Python and popular ML libraries (TensorFlow, PyTorch, Hugging Face Transformers, etc.).",
+   "verdict": "MATCH",
+   "quote": "Python, PyTorch, Hugging Face Transformers, spaCy, NLTK, Prompt Engineering, Langflow, LangChain, scikit-learn, Statistics, AWS (basic), Git",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong skills in prompt engineering/prompt chaining.",
+   "verdict": "MATCH",
+   "quote": "Prompt engineering toolkit: reusable prompt templates and chaining with Langflow",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with Langflow or similar AI workflow tools.",
+   "verdict": "MATCH",
+   "quote": "Prompt engineering toolkit: reusable prompt templates and chaining with Langflow",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Bonus: Familiarity with web crawling and scraping tools.",
+   "verdict": "MATCH",
+   "quote": "Web scraper: collected and cleaned article text using BeautifulSoup and Scrapy",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong understanding of statistical concepts, ML algorithms, and model evaluation techniques.",
+   "verdict": "MATCH",
+   "quote": "Text classifier: fine-tuned DistilBERT on 20,000 support tickets, evaluated with F1 and confusion matrices",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with cloud platforms and model deployment.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Excellent problem-solving, analytical, and communication skills.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_08|resume_08": [
+  {
+   "requirement": "Assist in developing and implementing computer vision algorithms and models.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Preprocess and analyze image and video data for various applications.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Collaborate with cross-functional teams to integrate vision solutions into products.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Support testing and validation of computer vision models to ensure accuracy and performance.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Maintain documentation and contribute to continuous improvement of vision systems.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Basic understanding of computer vision concepts and techniques.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Familiarity with programming languages such as Python or C++.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Knowledge of machine learning frameworks like TensorFlow or PyTorch.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Ability to work collaboratively in a team environment.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong problem-solving and analytical skills.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with OpenCV and image processing libraries.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Understanding of deep learning architectures related to vision.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Experience with data annotation and preprocessing techniques.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Good communication skills for effective collaboration.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Bachelor's degree in Computer Science, Electronics, Electrical Engineering or a related field.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  },
+  {
+   "requirement": "Diploma or certification courses in Computer Vision or Machine Learning are a plus.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience level: 0 to 2 years",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": true
+  }
+ ],
+ "jd_08|resume_01": [
+  {
+   "requirement": "Assist in developing and implementing computer vision algorithms and models.",
+   "verdict": "MATCH",
+   "quote": "on experience building and deploying computer vision and deep learning models using Python, TensorFlow, and OpenCV. Skilled",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Preprocess and analyze image and video data for various applications.",
+   "verdict": "MATCH",
+   "quote": "\u25cf Built an OpenCV preprocessing pipeline (denoising, thresholding, segmentation) that measurably improved model",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with cross-functional teams to integrate vision solutions into products.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Support testing and validation of computer vision models to ensure accuracy and performance.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Maintain documentation and contribute to continuous improvement of vision systems.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Basic understanding of computer vision concepts and techniques.",
+   "verdict": "MATCH",
+   "quote": "on experience building and deploying computer vision and deep learning models using Python, TensorFlow, and OpenCV. Skilled",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Familiarity with programming languages such as Python or C++.",
+   "verdict": "MATCH",
+   "quote": "Programming Languages: Python, SQL, JavaScript, HTML/CSS",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Knowledge of machine learning frameworks like TensorFlow or PyTorch.",
+   "verdict": "MATCH",
+   "quote": "ML / AI: TensorFlow, Keras, OpenCV, NumPy, Pandas, Scikit-learn",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Ability to work collaboratively in a team environment.",
+   "verdict": "MATCH",
+   "quote": "\u25cf Built and tested Python-based web application features as part of an agile development team",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong problem-solving and analytical skills.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with OpenCV and image processing libraries.",
+   "verdict": "MATCH",
+   "quote": "\u25cf Built an OpenCV preprocessing pipeline (denoising, thresholding, segmentation) that measurably improved model",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Understanding of deep learning architectures related to vision.",
+   "verdict": "MATCH",
+   "quote": "\u25cf Designed and trained a custom CNN using TensorFlow/Keras, tuning architecture and preprocessing to maximize",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with data annotation and preprocessing techniques.",
+   "verdict": "PARTIAL",
+   "quote": "in end-to-end model development \u2014 from data preprocessing to deployment as interactive applications. Currently expanding",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Good communication skills for effective collaboration.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Bachelor's degree in Computer Science, Electronics, Electrical Engineering or a related field.",
+   "verdict": "MATCH",
+   "quote": "Bachelor of Technology in Artificial Intelligence and Data Science | CGPA: 8.53, Nagercoil, Tamil Nadu",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Diploma or certification courses in Computer Vision or Machine Learning are a plus.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience level: 0 to 2 years",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_09|resume_09": [
+  {
+   "requirement": "Write effective, scalable code",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Develop back-end components to improve responsiveness and overall performance",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Integrate user-facing elements into applications",
+   "verdict": "MATCH",
+   "quote": "Built back-end features in Django and connected them to a React front end",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Test and debug programs",
+   "verdict": "MATCH",
+   "quote": "Fixed bugs, wrote unit tests, and added input validation and authentication for data protection",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Improve functionality of existing systems",
+   "verdict": "MATCH",
+   "quote": "Fixed bugs, wrote unit tests, and added input validation and authentication for data protection",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Implement security and data protection solutions",
+   "verdict": "MATCH",
+   "quote": "Fixed bugs, wrote unit tests, and added input validation and authentication for data protection",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Integration of user-facing elements developed by front-end developers with server side logic",
+   "verdict": "MATCH",
+   "quote": "Built back-end features in Django and connected them to a React front end",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Implementation of security and data protection",
+   "verdict": "MATCH",
+   "quote": "Fixed bugs, wrote unit tests, and added input validation and authentication for data protection",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work experience as a Python Developer",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Expertise in at least one popular Python framework (like Django, Flask or Pyramid)",
+   "verdict": "MATCH",
+   "quote": "Python, Django, Flask, SQLAlchemy, REST APIs, JavaScript, HTML5, CSS, React (basic), PostgreSQL, Docker, Git, Debugging",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Knowledge of object-relational mapping (ORM)",
+   "verdict": "MATCH",
+   "quote": "Used the Django ORM to design models and write database queries on PostgreSQL",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Familiarity with front-end technologies (like JavaScript and HTML5)",
+   "verdict": "MATCH",
+   "quote": "Online booking system: Django, PostgreSQL, JavaScript and HTML5 front end",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Advantageous if know any containerised technology like Docker or Kubernetes",
+   "verdict": "MATCH",
+   "quote": "Containerised app: Dockerfile and docker-compose for a Flask API with a database",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Excellent communication is required",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_09|resume_04": [
+  {
+   "requirement": "Write effective, scalable code",
+   "verdict": "PARTIAL",
+   "quote": "Wrote SQL queries and optimized slow endpoints on PostgreSQL",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Develop back-end components to improve responsiveness and overall performance",
+   "verdict": "MATCH",
+   "quote": "Wrote SQL queries and optimized slow endpoints on PostgreSQL",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Integrate user-facing elements into applications",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Test and debug programs",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Improve functionality of existing systems",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Implement security and data protection solutions",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Integration of user-facing elements developed by front-end developers with server side logic",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Implementation of security and data protection",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work experience as a Python Developer",
+   "verdict": "PARTIAL",
+   "quote": "Backend Developer Intern, 3 months",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Expertise in at least one popular Python framework (like Django, Flask or Pyramid)",
+   "verdict": "MATCH",
+   "quote": "Python, OOP, Data Structures and Algorithms (300+ LeetCode problems), Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker (basic), SDLC",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Knowledge of object-relational mapping (ORM)",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Familiarity with front-end technologies (like JavaScript and HTML5)",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Advantageous if know any containerised technology like Docker or Kubernetes",
+   "verdict": "MATCH",
+   "quote": "Python, OOP, Data Structures and Algorithms (300+ LeetCode problems), Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker (basic), SDLC",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Excellent communication is required",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_02|resume_01": [
+  {
+   "requirement": "0\u20132 years of experience, including fresh graduates with ML internships or academic projects.",
+   "verdict": "MATCH",
+   "quote": "B.Tech Artificial Intelligence and Data Science student (CGPA: 8.53) specializing in Machine Learning and applied AI, with hands",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Develop, train, and evaluate machine learning models for real-world business applications.",
+   "verdict": "MATCH",
+   "quote": "on experience building and deploying computer vision and deep learning models using Python, TensorFlow, and OpenCV. Skilled",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Perform data collection, cleaning, preprocessing, and feature engineering.",
+   "verdict": "PARTIAL",
+   "quote": "in end-to-end model development \u2014 from data preprocessing to deployment as interactive applications. Currently expanding",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Assist in deploying ML models into production environments.",
+   "verdict": "MATCH",
+   "quote": "\u25cf Deployed the trained model as a live Streamlit web application, taking it from notebook experiment to a usable real",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build and maintain APIs for serving machine learning models.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Monitor model performance and improve accuracy and efficiency.",
+   "verdict": "PARTIAL",
+   "quote": "accuracy on noisy, real-world input",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work with structured and unstructured datasets.",
+   "verdict": "MATCH",
+   "quote": "\u25cf Worked with structured data and debugged functional issues alongside senior developers, gaining exposure to real",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with software engineers, product managers, and data teams.",
+   "verdict": "PARTIAL",
+   "quote": "\u25cf Worked with structured data and debugged functional issues alongside senior developers, gaining exposure to real",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Document experiments, model performance metrics, and implementation details.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Participate in code reviews and follow software engineering best practices.",
+   "verdict": "PARTIAL",
+   "quote": "Tools / Platforms: Git, GitHub, VS Code, Excel",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Stay updated with advancements in Machine Learning, Generative AI, and MLOps.",
+   "verdict": "PARTIAL",
+   "quote": "into Generative AI and LLM-based systems. Seeking an AI/ML Engineer or Python Developer role to apply strong problem-solving",
+   "fake_quote": false
+  }
+ ],
+ "jd_02|resume_02": [
+  {
+   "requirement": "0\u20132 years of experience, including fresh graduates with ML internships or academic projects.",
+   "verdict": "MATCH",
+   "quote": "Machine Learning Intern, 2 months",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Develop, train, and evaluate machine learning models for real-world business applications.",
+   "verdict": "PARTIAL",
+   "quote": "Demand forecasting: LSTM model for time-series sales prediction, compared against ARIMA",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Perform data collection, cleaning, preprocessing, and feature engineering.",
+   "verdict": "PARTIAL",
+   "quote": "Improved F1 score from 0.71 to 0.79 through feature engineering and hyperparameter tuning",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Assist in deploying ML models into production environments.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Build and maintain APIs for serving machine learning models.",
+   "verdict": "MATCH",
+   "quote": "Model API: served the image classifier with a Flask endpoint",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Monitor model performance and improve accuracy and efficiency.",
+   "verdict": "PARTIAL",
+   "quote": "Improved F1 score from 0.71 to 0.79 through feature engineering and hyperparameter tuning",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work with structured and unstructured datasets.",
+   "verdict": "PARTIAL",
+   "quote": "Trained and evaluated classification models on tabular customer data using scikit-learn",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with software engineers, product managers, and data teams.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Document experiments, model performance metrics, and implementation details.",
+   "verdict": "PARTIAL",
+   "quote": "Documented experiments and metrics for the team",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Participate in code reviews and follow software engineering best practices.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Stay updated with advancements in Machine Learning, Generative AI, and MLOps.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ]
+}

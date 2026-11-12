@@ -15,6 +15,10 @@ from match_lines import requirement_lines
 st.title("Resume - JD Matcher")
 
 
+def short(text, limit=110):
+    return text if len(text) <= limit else text[:limit].rstrip() + "..."
+
+
 @st.cache_data
 def get_hybrid_scores():
     tfidf = rescale(tfidf_baseline.get_scores())
@@ -41,7 +45,8 @@ jds = get_jds()
 saved = get_saved()
 
 jd_id = st.selectbox("Choose a job description", list(jds.keys()))
-st.text_area("Job description", jds[jd_id], height=200)
+with st.expander("Show job description"):
+    st.text(jds[jd_id])
 
 ranked = scores.loc[jd_id].sort_values(ascending=False)
 st.subheader("Ranked resumes")
@@ -57,12 +62,30 @@ else:
     if not results:
         st.info("No saved explanation for this pair yet. Try the top 2 resumes.")
     else:
-        matched = sum(r["verdict"] == "MATCH" for r in results)
-        partial = sum(r["verdict"] == "PARTIAL" for r in results)
-        gaps = sum(r["verdict"] == "GAP" for r in results)
-        st.write("MATCH: " + str(matched) + "  |  PARTIAL: " + str(partial) + "  |  GAP: " + str(gaps))
-        for r in results:
-            st.markdown("**" + r["verdict"] + "** - " + r["requirement"])
-            if r["quote"]:
-                st.caption("Proof from the resume: " + r["quote"])
+        matches = [r for r in results if r["verdict"] == "MATCH"]
+        partials = [r for r in results if r["verdict"] == "PARTIAL"]
+        gaps = [r for r in results if r["verdict"] == "GAP"]
+
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Match", len(matches))
+        col2.metric("Partial", len(partials))
+        col3.metric("Gap", len(gaps))
+
+        shown = matches + partials
+        if shown:
+            st.dataframe(
+                pd.DataFrame(
+                    {
+                        "Verdict": [r["verdict"] for r in shown],
+                        "Job requirement": [short(r["requirement"], 90) for r in shown],
+                        "Proof from the resume": [short(r["quote"]) for r in shown],
+                    }
+                ),
+                hide_index=True,
+            )
+
+        with st.expander("Requirements not shown on the resume (" + str(len(gaps)) + ")"):
+            for r in gaps:
+                st.write("- " + r["requirement"])
+
         st.caption("Every proof line is checked to exist in the resume. The match judgments come from an AI model and may be imperfect.")

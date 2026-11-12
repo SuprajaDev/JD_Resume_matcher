@@ -35,6 +35,9 @@ def build_prompt(matches):
         '[{"n": 1, "verdict": "MATCH", "quote": "exact line"}]\n\n'
         + "\n\n".join(blocks)
     )
+def clean(text):
+    text = text.strip().lstrip("-").strip()
+    return " ".join(text.split()).lower()
 
 
 def explain(jd_text, resume_text):
@@ -57,8 +60,12 @@ def explain(jd_text, resume_text):
         verdict = answer.get("verdict", "GAP")
         quote = answer.get("quote", "")
         fake = False
-        if verdict in ("MATCH", "PARTIAL") and quote not in allowed:
-            verdict, quote, fake = "GAP", "", True
+        if verdict in ("MATCH", "PARTIAL"):
+            found = [line for line in allowed if clean(line) == clean(quote)]
+            if found:
+                quote = found[0]
+            else:
+                verdict, quote, fake = "GAP", "", True
         results.append({"requirement": req, "verdict": verdict, "quote": quote, "fake_quote": fake})
     return results
 

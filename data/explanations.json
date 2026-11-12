@@ -1,144 +1,4 @@
 {
- "jd_01|resume_04": [
-  {
-   "requirement": "We are looking for enthusiastic and highly motivated fresh graduates with a strong foundation in Python programming",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "This role provides an excellent opportunity to build a career in application development, automation, data processing,",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Good knowledge of Python programming.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Understanding of Object Oriented Programming (OOP) concepts.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Basic knowledge of:",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Data Structures & Algorithms",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "SQL and Database Concepts",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Git Version Control",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Software Development Life Cycle (SDLC)",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Develop, test, and maintain Python-based applications and scripts.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Participate in coding, debugging, and troubleshooting activities.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Assist in developing REST APIs and backend services.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Support automation and process improvement initiatives.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Work on data processing, reporting, and analytics solutions.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Participate in code reviews and follow coding standards.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Collaborate with cross-functional teams to understand requirements and deliver solutions.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Prepare technical documentation and project updates.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Learn and adopt emerging technologies, tools, and frameworks.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Strong analytical and problem-solving skills.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Excellent communication and teamwork skills.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Eagerness to learn new technologies.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Ability to work in a collaborative and fast-paced environment.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Positive attitude and customer-centric mindset.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  }
- ],
  "jd_01|resume_01": [
   {
    "requirement": "We are looking for enthusiastic and highly motivated fresh graduates with a strong foundation in Python programming",
@@ -1207,110 +1067,6 @@
    "fake_quote": false
   }
  ],
- "jd_08|resume_08": [
-  {
-   "requirement": "Assist in developing and implementing computer vision algorithms and models.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Preprocess and analyze image and video data for various applications.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Collaborate with cross-functional teams to integrate vision solutions into products.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Support testing and validation of computer vision models to ensure accuracy and performance.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Maintain documentation and contribute to continuous improvement of vision systems.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Basic understanding of computer vision concepts and techniques.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Familiarity with programming languages such as Python or C++.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Knowledge of machine learning frameworks like TensorFlow or PyTorch.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Ability to work collaboratively in a team environment.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Strong problem-solving and analytical skills.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Experience with OpenCV and image processing libraries.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Understanding of deep learning architectures related to vision.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Experience with data annotation and preprocessing techniques.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Good communication skills for effective collaboration.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Bachelor's degree in Computer Science, Electronics, Electrical Engineering or a related field.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  },
-  {
-   "requirement": "Diploma or certification courses in Computer Vision or Machine Learning are a plus.",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": false
-  },
-  {
-   "requirement": "Experience level: 0 to 2 years",
-   "verdict": "GAP",
-   "quote": "",
-   "fake_quote": true
-  }
- ],
  "jd_08|resume_01": [
   {
    "requirement": "Assist in developing and implementing computer vision algorithms and models.",
@@ -1720,6 +1476,250 @@
    "requirement": "Stay updated with advancements in Machine Learning, Generative AI, and MLOps.",
    "verdict": "GAP",
    "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_01|resume_04": [
+  {
+   "requirement": "We are looking for enthusiastic and highly motivated fresh graduates with a strong foundation in Python programming",
+   "verdict": "PARTIAL",
+   "quote": "Python, OOP, Data Structures and Algorithms (300+ LeetCode problems), Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker (basic), SDLC",
+   "fake_quote": false
+  },
+  {
+   "requirement": "This role provides an excellent opportunity to build a career in application development, automation, data processing,",
+   "verdict": "PARTIAL",
+   "quote": "Backend Developer Intern, 3 months",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Good knowledge of Python programming.",
+   "verdict": "MATCH",
+   "quote": "Python, OOP, Data Structures and Algorithms (300+ LeetCode problems), Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker (basic), SDLC",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Understanding of Object Oriented Programming (OOP) concepts.",
+   "verdict": "MATCH",
+   "quote": "Python, OOP, Data Structures and Algorithms (300+ LeetCode problems), Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker (basic), SDLC",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Basic knowledge of:",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Data Structures & Algorithms",
+   "verdict": "MATCH",
+   "quote": "Python, OOP, Data Structures and Algorithms (300+ LeetCode problems), Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker (basic), SDLC",
+   "fake_quote": false
+  },
+  {
+   "requirement": "SQL and Database Concepts",
+   "verdict": "MATCH",
+   "quote": "Wrote SQL queries and optimized slow endpoints on PostgreSQL",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Git Version Control",
+   "verdict": "MATCH",
+   "quote": "Python, OOP, Data Structures and Algorithms (300+ LeetCode problems), Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker (basic), SDLC",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Software Development Life Cycle (SDLC)",
+   "verdict": "MATCH",
+   "quote": "Python, OOP, Data Structures and Algorithms (300+ LeetCode problems), Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker (basic), SDLC",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Develop, test, and maintain Python-based applications and scripts.",
+   "verdict": "MATCH",
+   "quote": "Built and tested REST APIs in Django for an inventory management system",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Participate in coding, debugging, and troubleshooting activities.",
+   "verdict": "PARTIAL",
+   "quote": "Took part in code reviews and wrote technical documentation",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Assist in developing REST APIs and backend services.",
+   "verdict": "MATCH",
+   "quote": "Built and tested REST APIs in Django for an inventory management system",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Support automation and process improvement initiatives.",
+   "verdict": "MATCH",
+   "quote": "Task automation: Python scripts to process and report on CSV files",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Work on data processing, reporting, and analytics solutions.",
+   "verdict": "MATCH",
+   "quote": "Task automation: Python scripts to process and report on CSV files",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Participate in code reviews and follow coding standards.",
+   "verdict": "MATCH",
+   "quote": "Took part in code reviews and wrote technical documentation",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with cross-functional teams to understand requirements and deliver solutions.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Prepare technical documentation and project updates.",
+   "verdict": "MATCH",
+   "quote": "Took part in code reviews and wrote technical documentation",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Learn and adopt emerging technologies, tools, and frameworks.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong analytical and problem-solving skills.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Excellent communication and teamwork skills.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Eagerness to learn new technologies.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Ability to work in a collaborative and fast-paced environment.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Positive attitude and customer-centric mindset.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  }
+ ],
+ "jd_08|resume_08": [
+  {
+   "requirement": "Assist in developing and implementing computer vision algorithms and models.",
+   "verdict": "MATCH",
+   "quote": "Vehicle detection and tracking: YOLO plus a tracking algorithm on traffic video",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Preprocess and analyze image and video data for various applications.",
+   "verdict": "PARTIAL",
+   "quote": "Annotated and preprocessed image and video data using OpenCV and Label Studio",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Collaborate with cross-functional teams to integrate vision solutions into products.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Support testing and validation of computer vision models to ensure accuracy and performance.",
+   "verdict": "MATCH",
+   "quote": "Reproduced results from a research paper on object tracking and documented the differences",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Maintain documentation and contribute to continuous improvement of vision systems.",
+   "verdict": "PARTIAL",
+   "quote": "Reproduced results from a research paper on object tracking and documented the differences",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Basic understanding of computer vision concepts and techniques.",
+   "verdict": "MATCH",
+   "quote": "Trained an object detection model with YOLO on a custom dataset of 5,000 labeled images",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Familiarity with programming languages such as Python or C++.",
+   "verdict": "MATCH",
+   "quote": "Python, C++, OpenCV, PyTorch, TensorFlow, YOLO, Image Processing, Deep Learning, Data Annotation, Git",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Knowledge of machine learning frameworks like TensorFlow or PyTorch.",
+   "verdict": "MATCH",
+   "quote": "Python, C++, OpenCV, PyTorch, TensorFlow, YOLO, Image Processing, Deep Learning, Data Annotation, Git",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Ability to work collaboratively in a team environment.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Strong problem-solving and analytical skills.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with OpenCV and image processing libraries.",
+   "verdict": "MATCH",
+   "quote": "Annotated and preprocessed image and video data using OpenCV and Label Studio",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Understanding of deep learning architectures related to vision.",
+   "verdict": "MATCH",
+   "quote": "Trained an object detection model with YOLO on a custom dataset of 5,000 labeled images",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience with data annotation and preprocessing techniques.",
+   "verdict": "MATCH",
+   "quote": "Annotated and preprocessed image and video data using OpenCV and Label Studio",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Good communication skills for effective collaboration.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Bachelor's degree in Computer Science, Electronics, Electrical Engineering or a related field.",
+   "verdict": "MATCH",
+   "quote": "B.E Electronics and Communication, 2027, CGPA 8.0",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Diploma or certification courses in Computer Vision or Machine Learning are a plus.",
+   "verdict": "GAP",
+   "quote": "",
+   "fake_quote": false
+  },
+  {
+   "requirement": "Experience level: 0 to 2 years",
+   "verdict": "MATCH",
+   "quote": "Computer Vision Intern, 3 months",
    "fake_quote": false
   }
  ]

@@ -6,11 +6,7 @@ import streamlit as st
 
 sys.path.insert(0, "src")
 
-import embedding_chunked
-import tfidf_baseline
-from hybrid import rescale
 from load_data import load_texts
-from match_lines import requirement_lines
 
 st.title("Resume - JD Matcher")
 
@@ -20,10 +16,8 @@ def short(text, limit=110):
 
 
 @st.cache_data
-def get_hybrid_scores():
-    tfidf = rescale(tfidf_baseline.get_scores())
-    chunked = rescale(embedding_chunked.get_scores())
-    return (tfidf + chunked) / 2
+def get_scores():
+    return pd.read_csv("data/scores.csv", index_col=0)
 
 
 @st.cache_data
@@ -40,7 +34,7 @@ def get_saved():
         return {}
 
 
-scores = get_hybrid_scores()
+scores = get_scores()
 jds = get_jds()
 saved = get_saved()
 
@@ -54,13 +48,13 @@ st.caption("Relative order for this job only. The best resume gets 1.0, so this 
 st.table(pd.DataFrame({"resume": ranked.index, "relative match": ranked.round(2).values}))
 
 st.subheader("Why this resume ranks here")
-if not requirement_lines(jds[jd_id]):
-    st.info("This job description has no bullet-point requirements to check.")
+if not any(key.startswith(jd_id + "|") for key in saved):
+    st.info("No saved explanations for this job yet. Try another job.")
 else:
     resume_id = st.selectbox("Choose a resume", list(ranked.index[:3]))
     results = saved.get(jd_id + "|" + resume_id)
     if not results:
-        st.info("No saved explanation for this pair yet. Try the top 2 resumes.")
+        st.info("No saved explanation for this resume. Try one of the top 2.")
     else:
         matches = [r for r in results if r["verdict"] == "MATCH"]
         partials = [r for r in results if r["verdict"] == "PARTIAL"]

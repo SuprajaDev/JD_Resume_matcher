@@ -22,3 +22,5 @@
  - precomputed LLM explanations, fixed a too-strict quote check (it was downgrading real matches to GAP), 16 pairs saved with 0 invented quotes
  ## Nov 12 
  - Day 8: LLM explanations (free OpenRouter model) with a quote check. Fixed a too-strict check that was downgrading real matches to GAP. Compact explanation view. Deployed live app on Streamlit Community Cloud. Added resume upload (PDF or text, word matching only, no API key online). Learned: precomputing keeps the demo fast and key-free, and free models hit rate limits (429) when busy.
+ ## Nov 13
+ - Day 9-10: README with results, limits and screenshots. Live app tested with a real PDF upload.
